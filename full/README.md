@@ -147,11 +147,3 @@ typing-extensions==4.13.0
 - [x] Full documentation (this file ✅)
 
 ---
-
-## 📸 Screenshots (add here)
-
-- Home / Articles
-- Article + Comments
-- Comment editing
-- Login/Register
-- Admin panel
