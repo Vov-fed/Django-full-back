@@ -78,9 +78,11 @@ pipenv install
 pipenv shell
 python manage.py runserver
 ```
-
+### Admin Login:
+```bash
 admin userName: vladimirfedoruk
 admin password: Fedova@307
+```
 
 ### Frontend
 ```bash
